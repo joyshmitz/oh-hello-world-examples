@@ -3,7 +3,7 @@ module github.com/open-horizon/examples/edge/services/hellok8sMMS/k8s_mms_helper
 go 1.20
 
 require (
-	github.com/golang/glog v1.2.0
+	github.com/golang/glog v1.2.4
 	github.com/open-horizon/edge-sync-service v1.10.1
 )
 
